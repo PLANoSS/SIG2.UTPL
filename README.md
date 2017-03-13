@@ -1,22 +1,22 @@
-# DATOS DEL CURSO SISTEMAS DE INFORMACIÓN GEOGRÁFICA II
-
-
-Puede encontrar los ejercicios del curso dando click **[aquí](https://dl.dropboxusercontent.com/u/44902322/M%C3%93DULO.pdf)**
-
-Los datos del curso SIG los puede descargar dando click **[aquí](https://dl.dropboxusercontent.com/u/44902322/archivos%20curso.rar)**.
-
-En este **[enlace](http://www.qgis.org/es/site/forusers/download.html)** usted puede encontrar los instaladores del programa QGIS.
+# CURSO SISTEMAS DE INFORMACIÓN GEOGRÁFICA II
 
 ## PRESENTACIONES
 
-* 1 [Introducción a los Sistemas de Información Geográfica](http://prezi.com/xqchyd2kyll9/?utm_campaign=share&utm_medium=copy&rc=ex0share).
-* 2 [Introducción a QGIS](http://prezi.com/g6tgw3mpbecg/?utm_campaign=share&utm_medium=copy&rc=ex0share).
-* 3 [Uniones y relaciones](http://prezi.com/9ytrrdx6ox4i/?utm_campaign=share&utm_medium=copy&rc=ex0share).
-* 4 [Sistemas de coordenadas](http://prezi.com/dly7amsks1kc/?utm_campaign=share&utm_medium=copy&rc=ex0share).
 
-Las presentaciones de la primera semana en formato PDF las puede descargar desde **[aquí](https://dl.dropboxusercontent.com/u/44902322/SIG/presentaciones%20primera%20semana.rar)**
 
-Para ingresar al examen de la primera parte de click **[aquí](https://goo.gl/forms/WvLVWAGbo8zvBKlA2)**.
+## EJERCICIOS
+
+* 1 [Herramientas avanzadas de simbología](https://dl.dropboxusercontent.com/u/44902322/CURSO%20SIG2/EJERCICIO1.rar)
+* 2 [Herramientas avanzadas de etiquetado](https://dl.dropboxusercontent.com/u/44902322/CURSO%20SIG2/EJERCICIO2.rar)
+* 3 [Topología y autoensamblado](https://dl.dropboxusercontent.com/u/44902322/CURSO%20SIG2/EJERCICIO3.rar)
+* 4 [Consultas bases de datos geográficas]
+* 5 [Consultas espaciales]
+* 6 [Geoprocesamiento](https://dl.dropboxusercontent.com/u/44902322/CURSO%20SIG2/EJERCICIO6.rar)
+
+## EJERCICIOS EXTRACLASE
+
+* 1 [Bases de Datos Geográficos]
+* 2 [Identificación de errores topológicos](https://dl.dropboxusercontent.com/u/44902322/CURSO%20SIG2/EXTRACLASE2.rar)
 
 ## TRABAJO FINAL
 
@@ -41,3 +41,5 @@ Envíe los siguientes resultados a través del EVA, poniendo su Apellido_Nombre
 * 2. Captura de pantalla de resultado final (polígonos candidatos)
 
 * 3. Documento de texto con el número de polígonos candidatos.
+
+## EVALUACIONES
