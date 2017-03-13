@@ -19,6 +19,7 @@ Las presentaciones de la primera semana en formato PDF las puede descargar desde
 Para ingresar al examen de la primera parte de click **[aquí](https://goo.gl/forms/WvLVWAGbo8zvBKlA2)**.
 
 ##TRABAJO FINAL
+
 Estimados alumnos, desarrollar el siguiente ejercicio y enviar la respuesta hasta el próximo domingo 5 de febrero a las 20h00.
 
 El GAD parroquial de Vilcabamba está planificando la implementación de una zona industrial dentro de la parroquia. Los sitios candidatos deben cumplir con los siguientes criterios:
