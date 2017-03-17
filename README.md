@@ -4,7 +4,8 @@
 
 ## PRESENTACIONES
 
-
+* [Uniones y relaciones](http://prezi.com/9ytrrdx6ox4i/?utm_campaign=share&utm_medium=copy&rc=ex0share)
+* [Consultas de bases de datos](http://prezi.com/colue-i3akcf/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 
 ## EJERCICIOS
 
