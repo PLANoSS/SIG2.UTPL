@@ -18,7 +18,7 @@
 * 5 [Consultas espaciales](https://drive.google.com/open?id=0BzlSI5GKglNmbzZPZE5CcnN3dDA)
 * 6 [Geoprocesamiento](https://drive.google.com/open?id=0BzlSI5GKglNmMGlmMkdMOHh2aDg)
 
-## EJERCICIOS EXTRACLASE
+## EJERCICIOS EXTRA
 
 * 1 [Bases de Datos Geográficos](https://drive.google.com/open?id=0BzlSI5GKglNmT2FVUUo1THJTYXc)
 * 2 [Identificación de errores topológicos](https://drive.google.com/open?id=0BzlSI5GKglNmN1lsSnROQ2RWZms)
