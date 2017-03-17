@@ -7,17 +7,17 @@
 ## EJERCICIOS
 
 * 0 [Uniones y relaciones de datos](https://drive.google.com/open?id=0BzlSI5GKglNmcnVPSTNEVG9ldWc)
-* 1 [Herramientas avanzadas de simbología](https://dl.dropboxusercontent.com/u/44902322/CURSO%20SIG2/EJERCICIO1.rar)
-* 2 [Herramientas avanzadas de etiquetado](https://dl.dropboxusercontent.com/u/44902322/CURSO%20SIG2/EJERCICIO2.rar)
-* 3 [Topología y autoensamblado](https://dl.dropboxusercontent.com/u/44902322/CURSO%20SIG2/EJERCICIO3.rar)
-* 4 [Consultas bases de datos geográficas](https://dl.dropboxusercontent.com/u/44902322/CURSO%20SIG2/EJERCICIO4.rar)
-* 5 [Consultas espaciales](https://dl.dropboxusercontent.com/u/44902322/CURSO%20SIG2/EJERCICIO5.rar)
-* 6 [Geoprocesamiento](https://dl.dropboxusercontent.com/u/44902322/CURSO%20SIG2/EJERCICIO6.rar)
+* 1 [Herramientas avanzadas de simbología](https://drive.google.com/open?id=0BzlSI5GKglNmeGZvS0xsWS00ZU0)
+* 2 [Herramientas avanzadas de etiquetado](https://drive.google.com/open?id=0BzlSI5GKglNmY3plRURETUVsdDg)
+* 3 [Topología y autoensamblado](https://drive.google.com/open?id=0BzlSI5GKglNmNU1QYUFPNFMzQTA)
+* 4 [Consultas bases de datos geográficas](https://drive.google.com/open?id=0BzlSI5GKglNma1EzMW8zbFdZMnM)
+* 5 [Consultas espaciales](https://drive.google.com/open?id=0BzlSI5GKglNmbzZPZE5CcnN3dDA)
+* 6 [Geoprocesamiento](https://drive.google.com/open?id=0BzlSI5GKglNmMGlmMkdMOHh2aDg)
 
 ## EJERCICIOS EXTRACLASE
 
-* 1 [Bases de Datos Geográficos](https://dl.dropboxusercontent.com/u/44902322/CURSO%20SIG2/EXTRACLASE1.rar)
-* 2 [Identificación de errores topológicos](https://dl.dropboxusercontent.com/u/44902322/CURSO%20SIG2/EXTRACLASE2.rar)
+* 1 [Bases de Datos Geográficos](https://drive.google.com/open?id=0BzlSI5GKglNmT2FVUUo1THJTYXc)
+* 2 [Identificación de errores topológicos](https://drive.google.com/open?id=0BzlSI5GKglNmN1lsSnROQ2RWZms)
 
 ## TRABAJO FINAL
 
