@@ -6,7 +6,7 @@
 
 ## EJERCICIOS
 
-* 0 [Uniones y relaciones de datos](https://dl.dropboxusercontent.com/u/44902322/CURSO%20SIG2/EJERCICIO0.rar)
+* 0 [Uniones y relaciones de datos](https://drive.google.com/open?id=0BzlSI5GKglNmcnVPSTNEVG9ldWc)
 * 1 [Herramientas avanzadas de simbología](https://dl.dropboxusercontent.com/u/44902322/CURSO%20SIG2/EJERCICIO1.rar)
 * 2 [Herramientas avanzadas de etiquetado](https://dl.dropboxusercontent.com/u/44902322/CURSO%20SIG2/EJERCICIO2.rar)
 * 3 [Topología y autoensamblado](https://dl.dropboxusercontent.com/u/44902322/CURSO%20SIG2/EJERCICIO3.rar)
