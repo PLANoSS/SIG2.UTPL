@@ -18,7 +18,7 @@
 * 2 [Herramientas avanzadas de etiquetado](https://drive.google.com/open?id=0BzlSI5GKglNmY3plRURETUVsdDg)
 * 3 [Topología y autoensamblado](https://drive.google.com/open?id=0BzlSI5GKglNmNU1QYUFPNFMzQTA)
 * 4 [Consultas bases de datos geográficas](https://drive.google.com/open?id=0BzlSI5GKglNma1EzMW8zbFdZMnM)
-* 5 [Consultas espaciales](https://drive.google.com/open?id=0BzlSI5GKglNmbzZPZE5CcnN3dDA)
+* 5 [Consultas espaciales](https://www.dropbox.com/s/utg821hf871s346/EJERCICIO5.rar?dl=0)
 * 6 [Geoprocesamiento](https://drive.google.com/open?id=0BzlSI5GKglNmMGlmMkdMOHh2aDg)
 
 ## EJERCICIOS EXTRA
