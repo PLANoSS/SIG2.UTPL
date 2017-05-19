@@ -11,7 +11,7 @@
 
 ## EJERCICIOS
 
-* 1 [Identificación de errores topológicos](https://www.dropbox.com/s/0s17q3f6zwl3fwn/EXTRA2.rar?dl=0)
+* 1 [Identificación de errores topológicos](https://drive.google.com/open?id=0BzlSI5GKglNmN1lsSnROQ2RWZms)
 * 2 [Topología y autoensamblado](https://drive.google.com/open?id=0BzlSI5GKglNmNU1QYUFPNFMzQTA)
 * 3 [Consultas bases de datos geográficas](https://drive.google.com/open?id=0BzlSI5GKglNma1EzMW8zbFdZMnM)
 * 4 [Bases de Datos Geográficos](https://www.dropbox.com/s/u1xthvi8kb0w2rd/EXTRA1.rar?dl=0)
