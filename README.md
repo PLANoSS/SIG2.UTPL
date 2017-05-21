@@ -42,3 +42,5 @@ Cobertura
 Las zonas con aptitud para conservar son todas aquellas que estando dentro de la parroquia Vilcabamba llegan a tener una valoración de 1.3 o superior.
 
 Realice un diagrama detallado del proceso a seguir para identificar las zonas aptas.
+## TRABAJO
+* [Pautas para el trabajo final y fechas de actividades](https://www.dropbox.com/s/olv55skwqdwqc8o/Esquema%20del%20documento%20final.docx?dl=0)
