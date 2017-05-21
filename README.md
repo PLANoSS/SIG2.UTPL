@@ -18,7 +18,7 @@
 * 5 [Geoprocesamiento](https://drive.google.com/open?id=0BzlSI5GKglNmMGlmMkdMOHh2aDg)
 
 ## EVALUACIONES
-* Segunda evaluación]()
+* Segunda evaluación](https://goo.gl/forms/Ox8PVQcuMAdZqTbe2)
 ## EJERCICIO
 El ministerio del ambiente se ha propuesto conservar las áreas mayores a 5 hectáreas (independientemente del tipo de cobertura) en Vilcabamba, para lo cual, se solicita que determine las zonas candidatas para empezar los trámites de declaración de área protegida. Para ello se deben respetar los siguientes pesos:
  
