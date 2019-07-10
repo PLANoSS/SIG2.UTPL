@@ -10,12 +10,12 @@
 * [Consulta espacial y geoprocesamiento](http://prezi.com/0ilmzno_3yv5/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 
 ## EJERCICIOS
-
-* 1 [Identificación de errores topológicos](https://drive.google.com/open?id=0BzlSI5GKglNmN1lsSnROQ2RWZms)
-* 2 [Consultas bases de datos geográficas](https://drive.google.com/open?id=0BzlSI5GKglNma1EzMW8zbFdZMnM)
-* 3 [Bases de Datos Geográficos](https://drive.google.com/open?id=0BzlSI5GKglNmT2FVUUo1THJTYXc)
-* 4 [Consultas espaciales](https://drive.google.com/open?id=0BzlSI5GKglNmbzZPZE5CcnN3dDA)
-* 5 [Geoprocesamiento](https://drive.google.com/open?id=0BzlSI5GKglNmMGlmMkdMOHh2aDg)
+* 1 [Edición de datos](https://www.dropbox.com/s/znqxyhlt7hkivln/EJERCICIO%201.8.rar?dl=0)
+* 2 [Identificación de errores topológicos](https://drive.google.com/open?id=0BzlSI5GKglNmN1lsSnROQ2RWZms)
+* 3 [Consultas bases de datos geográficas](https://drive.google.com/open?id=0BzlSI5GKglNma1EzMW8zbFdZMnM)
+* 4 [Bases de Datos Geográficos](https://drive.google.com/open?id=0BzlSI5GKglNmT2FVUUo1THJTYXc)
+* 5 [Consultas espaciales](https://drive.google.com/open?id=0BzlSI5GKglNmbzZPZE5CcnN3dDA)
+* 6 [Geoprocesamiento](https://drive.google.com/open?id=0BzlSI5GKglNmMGlmMkdMOHh2aDg)
 
 ## EJERCICIO
 El ministerio del ambiente se ha propuesto conservar las áreas mayores a 5 hectáreas (independientemente del tipo de cobertura) en Vilcabamba, para lo cual, se solicita que determine las zonas candidatas para empezar los trámites de declaración de área protegida. Para ello se deben respetar los siguientes pesos:
