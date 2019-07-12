@@ -11,7 +11,7 @@
 
 ## EJERCICIOS
 * 1 [Edición de datos](https://www.dropbox.com/s/znqxyhlt7hkivln/EJERCICIO%201.8.rar?dl=0)
-* 1.1 [Edición topológica]
+*   1.1 Edición topológica
 * 2 [Identificación de errores topológicos](https://drive.google.com/open?id=0BzlSI5GKglNmN1lsSnROQ2RWZms)
 * 3 [Consultas bases de datos geográficas](https://drive.google.com/open?id=0BzlSI5GKglNma1EzMW8zbFdZMnM)
 * 4 [Bases de Datos Geográficos](https://drive.google.com/open?id=0BzlSI5GKglNmT2FVUUo1THJTYXc)
