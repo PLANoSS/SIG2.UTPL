@@ -5,7 +5,8 @@
 
 ## PRESENTACIONES
 
-* [Topología](http://prezi.com/colue-i3akcf/?utm_campaign=share&utm_medium=copy&rc=ex0share)
+* [Topología](https://prezi.com/lm7_lmxoy1lh/?token=915972b5d68a00e61f929c54186eee4962ee79a4866a0ee0568bede44efa9077&utm_campaign=share&utm_medium=copy&rc=ex0share)
+* [Tipos de datos](https://prezi.com/mju2roq_ebtw/?token=78f3afa220d555cfd9a2fbdfdda7ee1fa38190c9375d58da001e418bbef87e51&utm_campaign=share&utm_medium=copy&rc=ex0share)
 * [Consultas de bases de datos](http://prezi.com/colue-i3akcf/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 * [Consulta espacial y geoprocesamiento](http://prezi.com/0ilmzno_3yv5/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 
